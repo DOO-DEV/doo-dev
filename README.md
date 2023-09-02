@@ -1,7 +1,7 @@
 ### Hi there I'm Mohammad Hossein👋
 
 ```go
-whoAmI := map[string]string{}{
+Me := map[string]string{}{
 	"name":            "Mohammad Hossein",
 	"profession":      "Backend web dev",
 	"languages":       []string{"Go", "Javascript"},
