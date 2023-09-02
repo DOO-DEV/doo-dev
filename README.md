@@ -9,7 +9,7 @@ Me := map[string]interface{}{
 	"frameworks":      []string{"Echo", "React", "NextJS"},
 	"tools":           []string{"Docker", "Git"},
 	"systems":         []string{"Linux"},
-  	"Interests": 	   []string{"Computers", "Watch movies", "Sport"}
+  	"interests": 	   []string{"Computers", "Watch movies", "Sport"}
 }
 ```
 
