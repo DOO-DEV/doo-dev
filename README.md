@@ -20,3 +20,5 @@ Me := map[string]interface{}{
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doo-dev&theme=algolia">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=doo-dev&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
 </p>
+
+<p align="center"><img src="./dancing-gopher.gif"/></p>
