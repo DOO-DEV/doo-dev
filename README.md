@@ -9,7 +9,7 @@ whoAmI := map[string]string{}{
 	"frameworks":      []string{"Echo", "React", "NextJS"},
 	"tools":           []string{"Docker", "Git"},
 	"systems":         []string{"Linux"},
-  "Interests": []string{"Computers", "Watch movies", "walking"}
+  	"Interests": []string{"Computers", "Watch movies", "Sport"}
 }
 ```
 
