@@ -6,7 +6,7 @@ Me := map[string]interface{}{
 	"profession":      "Backend web dev",
 	"languages":       []string{"Go", "Javascript"},
 	"databases":       []string{"PostgreSQL", "Redis", "MySQL"},
-	"frameworks":      []string{"Echo", "React", "NextJS"},
+	"frameworks":      []string{"Echo", "Gin", "React", "NextJS"},
 	"tools":           []string{"Docker", "Git"},
 	"systems":         []string{"Linux"},
   	"interests": 	   []string{"Computers", "Watch movies", "Sport"}
